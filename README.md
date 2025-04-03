@@ -62,7 +62,5 @@ To run **TrafficPulse** on your local machine:
 
 This project was developed to **digitize traffic monitoring** and **enhance communication between police and vehicle owners**. By centralizing all traffic-related data into a user-friendly platform, TrafficPulse ensures **transparency, efficiency, and security** in managing road safety and vehicle compliance.  
 
-## 📷 Demo  
 
-Check out the live demo: [TrafficPulse Demo](https://YOUR_PROJECT_URL)  
 
